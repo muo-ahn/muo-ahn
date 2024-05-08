@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+I am studying about ML by myself.
 <!--
 **muo-ahn/muo-ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
