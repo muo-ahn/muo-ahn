@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning about ML by myself.
 
-I am studying about ML by myself.
+📫 How to reach me: dksehdgur321@gmail.com
+
 <!--
 **muo-ahn/muo-ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
