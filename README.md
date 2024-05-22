@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi there 👋
+
+## Entry-Level Software Engineer
+I am a student at a university majoring Computer Sceince.
+
+Hard skill
+-  C/C++, C#, Javascript, Python
+-  Node.js, FastAPI, .Net Framework
+
+Soft skill
+- Team-worker
+- English speaker
+- Faster learner
+- With time management
 
 🌱 I’m currently learning about ML by myself.
 
