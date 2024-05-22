@@ -15,6 +15,8 @@ Soft skill
 
 🌱 I’m currently learning about ML by myself.
 
+🔭 I’m willing to have work-experience of Web backend.
+
 📫 How to reach me: dksehdgur321@gmail.com
 
 ### Project list
