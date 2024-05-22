@@ -1,8 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
 🌱 I’m currently learning about ML by myself.
 
 📫 How to reach me: dksehdgur321@gmail.com
+
+### Project list
+
+- WB38 Team Leading expereince 1 : https://github.com/muo-ahn/WB38_Project
+- WB38 Team Leading expereince 2 : https://github.com/muo-ahn/WB38_wcf
+- Python Learning project by myself : https://github.com/muo-ahn/Python
 
 <!--
 **muo-ahn/muo-ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
