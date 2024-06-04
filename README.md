@@ -23,7 +23,7 @@ Soft skill
 
 - WB38 Team Leading expereince 1 : https://github.com/muo-ahn/WB38_Project
 - WB38 Team Leading expereince 2 : https://github.com/muo-ahn/WB38_wcf
-- Machine Learning project by myself : https://github.com/muo-ahn/Python
+- Machine Learning project by myself : https://github.com/muo-ahn/ML
 
 <!--
 **muo-ahn/muo-ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
