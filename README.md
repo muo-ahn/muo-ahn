@@ -19,6 +19,8 @@ Soft skill
 
 📫 How to reach me: dksehdgur321@gmail.com
 
+Portfolio : https://spotty-puppet-fc8.notion.site/Hi-I-m-Donghyeok-d60b2fc2e27b46dbaf560da9be16b275
+
 ### Project list
 
 - WB38 Team Leading expereince 1 : https://github.com/muo-ahn/WB38_Project
