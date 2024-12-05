@@ -23,7 +23,7 @@ Portfolio : https://spotty-puppet-fc8.notion.site/Hi-I-m-Donghyeok-d60b2fc2e27b4
 
 ### Project list
 
-- WB38 Team Leading expereince 1 : https://github.com/muo-ahn/WB38_Project
+- WB38 Team Leading expereince 1 : https://github.com/muo-ahn/AI-VET
 - WB38 Team Leading expereince 2 : https://github.com/muo-ahn/WB38_wcf
 - Machine Learning project by myself : https://github.com/muo-ahn/ML
 
